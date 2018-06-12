@@ -21,12 +21,9 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
-<<<<<<< HEAD
 /.idea/*
-=======
 .idea/*
 /node_modules
->>>>>>> dd9a2d4da4c666e37b72e6d4eecfa843e8bc98e7
 /yarn-error.log
 
 .byebug_history
