@@ -1,24 +1,17 @@
-# README
+# Dawi Core Rails API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+We our goal is to develop a plug and play JWT token based authentications system to be used with any JavaScript framework.  
 
-Things you may want to cover:
+### Goal:
+* Authentication (Login/Logout)
+* Registration
+* Account Management
+* OmniAuth with Key Providers
+    * Facebook
+    * Twitter
+    * Github 
+    * Google
+ 
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
