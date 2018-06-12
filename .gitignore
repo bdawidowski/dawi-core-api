@@ -8,15 +8,25 @@
 /.bundle
 
 # Ignore the default SQLite database.
+<<<<<<< HEAD
 /db/*.sqlite3
 /db/*.sqlite3-journal
+=======
+# /db/*.sqlite3
+# /db/*.sqlite3-journal
+>>>>>>> dd9a2d4da4c666e37b72e6d4eecfa843e8bc98e7
 
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
 !/log/.keep
 !/tmp/.keep
+<<<<<<< HEAD
 /.idea/*
+=======
+.idea/*
+/node_modules
+>>>>>>> dd9a2d4da4c666e37b72e6d4eecfa843e8bc98e7
 /yarn-error.log
 
 .byebug_history
